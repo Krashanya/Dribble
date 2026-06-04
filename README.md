@@ -309,10 +309,10 @@ Don't have an account?
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
-``
+```
 ## OUTPUT:
+![alt text](image-4.png)
+![alt text](image-5.png)
 
-![alt text](image.png)
-![alt text](image-1.png)
 ## RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
